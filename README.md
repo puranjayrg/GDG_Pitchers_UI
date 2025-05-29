@@ -1,3 +1,13 @@
+This repository contains the resources and code for a talk I was invited to give at **Data & GenAI Nexus 5.0** hosted by Google Developer Groups (GDG) Noida. 
+
+You can access the UI by running the code locally on your system using the instructions below, or you can play around with an already hosted version on streamlit cloud here: [GDG Pitchers](https://gdgpitchers.streamlit.app/)
+
+Please keep in mind that the UI has been optimized for dark mode and may not be rendered perfectly in case you are using light mode. 
+
+Please feel free to star the repository if you found it useful :)
+
+---
+
 # 💼 GDG Pitchers
 
 Transform any business idea into a compelling, professional pitch in seconds using the power of AI!
